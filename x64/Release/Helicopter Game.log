@@ -1,0 +1,12 @@
+﻿  collision.cpp
+  helicopter.cpp
+  loader.cpp
+  main.cpp
+  obstacle.cpp
+  score.cpp
+  Generating code
+  409 of 482 functions (84.9%) were compiled, the rest were copied from previous compilation.
+    203 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Helicopter Game.vcxproj -> C:\Users\Samuel\Documents\C++ Projects\Helicopter Game\x64\Release\Helicopter Game.exe
